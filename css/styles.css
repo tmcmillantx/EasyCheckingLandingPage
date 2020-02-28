@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+
+/*-- global --*/
+
+body {
+    font-family: 'Roboto', Helvetica, sans-serif;
+    background: white url('../images/pig.png') top left;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain; 
+    color: #212121;
+}
+.btn-green {
+    background-color: #009688;
+    color: #fff;
+}
+h3 {
+    color: #757575;
+}
+
+
+
+/*-- navigation --*/
+
+img.logo {
+    width: 300px;
+    height: 60px;
+    object-fit: contain;
+}
+
+
+
+/*-- content --*/
+
+#mainHdr {
+    padding-top: 80px;
+}
+#mainImg {
+    padding-top: 50px;
+}
+#featureHdr {
+    margin: 200px 0px 50px 0px;
+}
+#quote .jumbotron {
+    background-color: #009688;
+}
+#quote .jumbotron .blockquote-footer {
+    color: #fff;
+}
+
+/*-- footer --*/
