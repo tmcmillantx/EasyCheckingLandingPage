@@ -42,8 +42,11 @@ img.logo {
 #mainImg {
     padding-top: 50px;
 }
-#featureHdr, #helpHdr {
+#featureHdr {
     margin: 200px 0px 50px 0px;
+}
+#helpHdr {
+    margin: 100px 0px 0px 0px;
 }
 #quote .jumbotron {
     background-color: #009688;
